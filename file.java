@@ -72,6 +72,7 @@ public class file {
                 b = false;
             }
         }
+        scan.close();
         return 0;
     }
 
