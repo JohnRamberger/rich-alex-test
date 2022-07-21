@@ -35,12 +35,14 @@ public class file {
         // arr[0] = 7;
         // arr[1] = 2;
 
-        int[] arr = new int[3];
+        // int[] arr = new int[3];
 
-        // [1, 5, 7]
-        arr[0] = 1;
-        arr[1] = 5;
-        arr[2] = 7;
+        // // [1, 5, 7]
+        // arr[0] = 1;
+        // arr[1] = 5;
+        // arr[2] = 7;
+
+
 
         // int i = test("hellodkjs fhjdksh");
         // System.out.println(i);d
